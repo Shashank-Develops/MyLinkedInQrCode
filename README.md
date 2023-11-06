@@ -1,3 +1,3 @@
 # MyLinkedInQrCode
 <h3>QRCode1</h3>
-<img src = "MyLinkedIn.png" >
+<a href = "https://imagetolink.com/ib/UNpb0mYmdu" ></a>
